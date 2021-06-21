@@ -20,9 +20,9 @@ body {
 
 
 .music-container {
-  background-color: rgb(24, 11, 58);
+  background-color: rgb(24, 9, 59);
   border-radius: 15px;
-  box-shadow: 0 20px 20px 0 rgba(80, 29, 29, 0.6);
+  box-shadow: 0 20px 20px 0 rgba(87, 28, 28, 0.6);
   display: flex;
   padding: 20px 10px;
   position: relative;
@@ -82,7 +82,7 @@ body {
 }
 
 .action-btn {
-  background-color: rgb(24, 11, 58);
+  background-color: rgb(24, 9, 59);
   border: 0;
   color: #dfdbdf;
   font-size: 20px;
